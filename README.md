@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Juily and welcome to my GitHub!
+I am a graduate student currently working on my master's project. You're welcome to browse through my repositories to see my work in machine learning, Python, software engineering, and cybersecurity.
+I am actively cultivating my expertise in the following domains:
+- Software Development
+- Cybersecurity
+- AI/ML
+- Python Programming
+
 <!--
 **ArtimisJ26/ArtimisJ26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
