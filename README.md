@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Juily and welcome to my GitHub!
-I am a graduate student currently working on my master's project. You're welcome to browse through my repositories to see my work in machine learning, Python, software engineering, and cybersecurity.
+I am a recent graduate working on upskilling myself in Fullstack development and dipping my feet in Gen AI opensource contribution. You're welcome to browse through my repositories to see my work in machine learning, Python, software engineering, and cybersecurity.
 I am actively cultivating my expertise in the following domains:
 - Software Development
 - Cybersecurity
