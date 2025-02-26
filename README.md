@@ -6,7 +6,7 @@ I am actively cultivating my expertise in the following domains:
 - Software Development
 - AI/ML
 - Python Programming
-- - Cybersecurity
+- Cybersecurity
 
 <!--
 **ArtimisJ26/ArtimisJ26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
